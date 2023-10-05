@@ -85,6 +85,11 @@ $ npm install
 ## create a variable PORT with value 3000
 ## create a variable REACT_APP_BACKEND_URI with value http://localhost:5000
 
+# Go to https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch/ create your api key
+# Open the .env file and 
+## create a variable REACT_APP_RAPID_API_KEY with value "your rapid api key"
+
+
 # Come back to previous path
 $ cd ..
 
