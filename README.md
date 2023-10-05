@@ -45,17 +45,17 @@
 
 ## Preview
 
-![screenshot](https://res.cloudinary.com/amitkumarshaw/image/upload/v1693977564/managetScreenRecordingFinal_qljspy.gif)
+![screenshot](https://res.cloudinary.com/amitkumarshaw/image/upload/v1696527031/JobFinder1_czdpho.png)
 
 ## Screenshots
 
-![screenshot](https://res.cloudinary.com/amitkumarshaw/image/upload/v1693944696/LoginPageScreenshot_zrsyzm.png)
+![screenshot](https://res.cloudinary.com/amitkumarshaw/image/upload/v1696527031/JobFinder2_sjte5m.png)
 
-![screenshot](https://res.cloudinary.com/amitkumarshaw/image/upload/v1693944698/AddingTaskScreenshot_ly48ps.png)
+![screenshot](https://res.cloudinary.com/amitkumarshaw/image/upload/v1696527032/JobFinder3_rj8is1.png)
 
-![screenshot](https://res.cloudinary.com/amitkumarshaw/image/upload/v1693945359/HomepageScreenshot_aou1wn.jpg)
+![screenshot](https://res.cloudinary.com/amitkumarshaw/image/upload/v1696527031/JobFinder4_cpijaq.png)
 
-![screenshot](https://res.cloudinary.com/amitkumarshaw/image/upload/v1693945222/lightmodeScreenshot_a2fvdt.jpg)
+![screenshot](https://res.cloudinary.com/amitkumarshaw/image/upload/v1696527031/JobFinder5_jzxjta.png)
 
 ## Key Features
 
