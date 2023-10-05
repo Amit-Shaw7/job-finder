@@ -3,7 +3,7 @@
   <br>
   <a href="https://jobinder.vercel.app/"><img src="https://res.cloudinary.com/amitkumarshaw/image/upload/v1696526044/logo_f2rq5k.png" alt="jobinder" width="200"></a>
   <br>
-  Managet
+  Jobinder
   <br>
 </h1>
 
