@@ -23,6 +23,14 @@ const Login = () => {
         console.log(data);
     };
 
+    const guestLogin = () => {
+        const data ={
+            email : "demo@gmail.com",
+            password : "123456789"
+        }
+        dispatch(login(data , navigate));
+    }
+
     return (
         <section className="h-[100vh] bg-gray-50 dark:bg-gray-900">
             <div className="flex flex-col items-center justify-center px-6 py-8 mx-auto md:h-screen lg:py-0">
@@ -82,6 +90,15 @@ const Login = () => {
                                 className="w-full text-white bg-primary-600 hover:bg-primary-700 focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800"
                             >
                                 Login
+                            </button>
+
+                            <button
+                                onClick={guestLogin}
+                                type="button"
+                                disabled={isSubmitting}
+                                className="w-full text-white bg-primary-600 hover:bg-primary-700 focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800"
+                            >
+                                Login as guest
                             </button>
 
                             <div className='flex items-center justify-center gap-2'>
