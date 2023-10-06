@@ -5,6 +5,7 @@ import Home from './pages/Home';
 import { useSelector } from 'react-redux';
 import JobDetails from './pages/JobDetails';
 import Preview from './pages/Preview';
+import { Toaster } from 'react-hot-toast';
 
 
 function App() {
@@ -23,6 +24,7 @@ function App() {
           </Routes>
         </BrowserRouter>
       </div>
+      <Toaster position='top-center'/>
     </div>
   );
 }
