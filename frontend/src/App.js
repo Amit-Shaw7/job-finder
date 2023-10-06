@@ -22,9 +22,9 @@ function App() {
             <Route exact path="/job/:id" element={user ? <JobDetails /> : <Navigate to="/login" />} />
             <Route exact path="/job/applied/preview" element={user ? <Preview /> : <Navigate to="/login" />} />
           </Routes>
+          <Toaster position='top-center' />
         </BrowserRouter>
       </div>
-      <Toaster position='top-center'/>
     </div>
   );
 }
