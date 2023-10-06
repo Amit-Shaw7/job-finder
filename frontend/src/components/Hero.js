@@ -25,7 +25,7 @@ const Hero = () => {
 
     return (
         <div className='h-[56.9vh] w-full mt-20 font-mono flex flex-col justify-center items-center'>
-            <h2 className='text-3xl font-semibold text-primary-500 text-center'>Just type you skills and search jobs at your fingertips</h2>
+            <h2 className='text-3xl font-semibold text-primary-500 text-center'>Just type your skills and search jobs at your fingertips</h2>
             {/* <h5</h5> */}
             <div className='flex flex-col gap-2 items-center w-[90%] md:w-[50%] justify-center mt-20'>
                 <label className='dark:text-white text-black text-xl' htmlFor="skill">Type a skill</label>
